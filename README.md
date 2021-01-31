@@ -1,2 +1,3 @@
 # FTP_Code
-Ftp by code
+Code by C++
+file:server and client
